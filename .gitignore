@@ -1,0 +1,17 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/conf/dev.conf
+/.project
+/.settings
+/RUNNING_PID
+/journal
+/snapshots
+
+buildinfo.properties
+
+project/project/
+/bin/
+
