@@ -1,1 +1,3 @@
-# kafka-akka-test
+# ZooKeeper, Kafka and Akka testing
+
+See src/test for specs.
